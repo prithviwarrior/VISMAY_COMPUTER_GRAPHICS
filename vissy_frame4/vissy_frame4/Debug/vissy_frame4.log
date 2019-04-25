@@ -1,0 +1,19 @@
+﻿  source.cpp
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(239): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(319): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(355): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(370): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(387): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(489): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(504): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(520): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(535): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(565): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vissy_frame4\vissy_frame4\source.cpp(593): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  vissy_frame4.vcxproj -> C:\Users\user\source\repos\vissy_frame4\Debug\vissy_frame4.exe
