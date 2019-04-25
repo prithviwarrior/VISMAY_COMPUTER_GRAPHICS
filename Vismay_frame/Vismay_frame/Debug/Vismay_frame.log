@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(223): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(265): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(279): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(277): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(441): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(457): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(534): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(551): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(650): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(658): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(673): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(689): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(704): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\source\repos\vismay_frame\vismay_frame\source.cpp(734): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Vismay_frame.vcxproj -> C:\Users\user\source\repos\Vismay_frame\Debug\Vismay_frame.exe
